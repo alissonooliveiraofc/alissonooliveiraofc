@@ -45,8 +45,8 @@
 
 ### 📊 Estatísticas do GitHub:
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alisson&show_icons=true&theme=dark" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson&layout=compact&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisson&show_icons=true&theme=dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson&layout=compact&theme=dark" />
 </div>
 
 #### 🏆 Troféus:

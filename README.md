@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&width=435&lines=Bem+vindo+ao+meu+GitHub!;Eu+adoro+programar!;Vamos+construir+algo+incrível!" alt="Typing Widget" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&width=435&lines=Bem+vindo(a)+ao+meu+GitHub!🚀💻;Sou+um+Dev+Front-End!❤️👨‍💻;Vamos+construir+algo+incrível+🧱!;<+>In+Code+We+Trust</>💚💻" alt="Typing Widget" />
 </div>
 
 ## Olá, eu sou o Alisson! 👋
@@ -7,22 +7,19 @@
 ![Visitas ao Perfil](https://komarev.com/ghpvc/?username=alisson&color=blue&style=flat-square)
 
 ### 🚀 Sobre Mim:
-- 💻 Apaixonado por **tecnologia e programação**
-- 🌱 Atualmente aprendendo **JavaScript, React e Node.js**
-- 🎯 Buscando oportunidades em **Desenvolvimento de Software e Front-End**
-- ⚡ Fato divertido: Adoro criar **projetos interativos na web**!
+- 💻 Apaixonado por **tecnologia e programação**, dedicado a criar interfaces dinâmicas e intuitivas.
+- 🌱 Atualmente aprendendo **Back-End** e seus super poderes!
+- 🎯 Buscando oportunidades em **Desenvolvimento Front-End React / TypeScript**
+- 🤡 Frase inspiradora: **Front-end:** **transformando café em código e sonhos em telas!**
 
 
 ### 📫 Conecte-se comigo:
 <div align="center">
-  <a href="https://linkedin.com/in/alissonooliveira_" target="_blank">
+  <a href="https://linkedin.com/in/alissonooliveira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/alisson" target="_blank">
+  <a href="https://github.com/alissonooliveiraofc/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://instagram.com/alisson" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:alisson@example.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>

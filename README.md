@@ -21,10 +21,11 @@
   <a href="https://github.com/alissonooliveiraofc/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:alissonooliveiraofc@gmail.com">
+  <a href="mailto:alissonooliveiraofc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
+
 
 ---
 

@@ -45,13 +45,14 @@
 
 ### 📊 Estatísticas do GitHub:
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alisson&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisson&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alissonooliveiraofc&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonooliveiraofc&layout=compact&theme=dark" alt="Top Languages"/>
 </div>
 
 #### 🏆 Troféus:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alisson&theme=flat&margin-w=15&margin-h=15" alt="Troféus" 
+  <img src="https://github-profile-trophy.vercel.app/?username=alissonooliveiraofc&theme=flat&margin-w=15&margin-h=15" alt="Troféus" />
+</div> 
 
 
 <!--

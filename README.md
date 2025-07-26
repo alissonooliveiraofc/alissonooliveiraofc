@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&width=435&lines=Bem+vindo(a)+ao+meu+GitHub!🚀💻;Sou+um+Dev+Front-End!❤️👨‍💻;Vamos+construir+algo+incrível+🧱!;<+>In+Code+We+Trust</>💚💻" alt="Typing Widget" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6347&width=435&lines=Bem+vindo(a)+ao+meu+GitHub!🚀💻;Sou+um+Dev+Full-Stack!❤️👨‍💻;Vamos+construir+algo+incrível+🧱!;<+>In+Code+We+Trust</>💚💻" alt="Typing Widget" />
 </div>
 
 ## Olá, eu sou o Alisson! 👋
@@ -8,8 +8,8 @@
 
 ### 🚀 Sobre Mim:
 - 💻 Apaixonado por **tecnologia e programação**, dedicado a criar interfaces dinâmicas e intuitivas.
-- 🌱 Atualmente aprendendo **Back-End** e seus super poderes!
-- 🎯 Buscando oportunidades em **Desenvolvimento Front-End React / TypeScript**
+- 🌱 Atualmente aprendendo **AWS, Google Cloud** e seus super poderes!
+- 🎯 Buscando oportunidades em **Desenvolvimento Full Stack ou Front-End React / TypeScript**
 - 🤡 Frase inspiradora: **Front-end:** **transformando café em código e sonhos em telas!**
 
 

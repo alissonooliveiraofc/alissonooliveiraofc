@@ -8,9 +8,9 @@
 
 ### 🚀 Sobre Mim:
 - 💻 Apaixonado por **tecnologia e programação**, dedicado a criar interfaces dinâmicas e intuitivas.
-- 🌱 Atualmente aprendendo **AWS, Google Cloud** e seus super poderes!
-- 🎯 Buscando oportunidades em **Desenvolvimento Full Stack ou Front-End React / TypeScript**
-- 🤡 Frase inspiradora: **Front-end:** **transformando café em código e sonhos em telas!**
+- 🌱 Atualmente aprendendo **Automações com Python, Análise de Dados, Pandas, numpy** e seus super poderes!
+- 🎯 Buscando oportunidades em **Desenvolvimento Full Stack | Front-End React TypeScript | Data Analyst**
+- 🤡 Frase inspiradora: **transformando café em código e sonhos em telas!**
 
 
 ### 📫 Conecte-se comigo:

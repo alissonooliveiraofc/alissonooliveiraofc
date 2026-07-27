@@ -17,10 +17,14 @@
 </p>
 
 ## 👨‍💻 **Sobre Mim**
-🔹 **Desenvolvedor Full Stack** focado em transformar problemas complexos de negócio em aplicações web escaláveis e de alta performance.  
-💡 **Especializado em:** Construção de APIs RESTful assíncronas com **Node.js** e **Python (FastAPI)**, criação de arquiteturas front-end modernas com **React, TypeScript & TanStack**, e modelagem sólida de bancos de dados.  
+🔹 **Desenvolvedor Full Stack** focado em transformar problemas complexos de negócio em aplicações web escaláveis e de alta performance.
+
+💡 **Especializado em:** Construção de APIs RESTful assíncronas com **Node.js** e **Python (FastAPI)**, criação de arquiteturas front-end modernas com **React, TypeScript & TanStack**, e modelagem sólida de bancos de dados. 
+
 💳 **Engenharia de Pagamentos & Fintechs:** Experiência prática na integração de gateways de pagamento (ex: API Cielo), processamento de cartão de crédito e motores de assinaturas recorrentes.  
+
 🧪 **Qualidade & Padrões:** Defensor de **Clean Code**, TDD (Jest / React Testing Library) e integração contínua sem atritos.  
+
 📍 **Foco Atual:** Disponível para novas oportunidades como **Desenvolvedor Full Stack**, focado em criar APIs de alta performance com **Node.js / Python (FastAPI) e interfaces modernas com React & TypeScript**.
 
 <p align="center">

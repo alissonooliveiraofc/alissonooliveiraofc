@@ -93,11 +93,3 @@
 </p>
 
 ---
-
-## 📈 **Estatísticas do GitHub**
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alissonooliveiraofc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" width="45%" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alissonooliveiraofc&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Linguagens Mais Utilizadas" width="45%" height="165" />
-</p>
